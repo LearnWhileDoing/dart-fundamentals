@@ -4,7 +4,7 @@ description: A brief summary of this course.
 
 # Introduction
 
-Hey there, and welcome to Learn While Doing's **Programming in Dart** course. This basic module course will teach you the fundamentals of the Dart programming language and how to code in it.
+Hey there, and welcome to Learn While Doing's **Dart Fundamentals** course. This basic module course will teach you the fundamentals of the Dart programming language and how to code in it.
 
 ## What's covered in this course?
 
@@ -18,9 +18,10 @@ Hey there, and welcome to Learn While Doing's **Programming in Dart** course. Th
 
 ### Dart programming language
 
+* Overview of Dart
 * Variables
-* Primitive vs. non-primitive types
-* Methods
+* Type system
+* Functions
 * Classes
 * Code structure
 * `async` and `Futures` \(advanced\)
