@@ -18,5 +18,5 @@ It should be noted that Dart is not restricted to the front-end and can be used 
 
 ## Fast apps on any platform
 
-You might have heard of the programming language Java which can be used to develop Android applications, or Swift which can be used to develop macOS or iOS apps. Dart with Flutter can be used to develop applications on any platform that supports it; currently, those platforms include macOS, iOS, Android, web, and Linux \(in beta\).
+You might have heard of the programming language Java which can be used to develop Android applications, or Swift which can be used to develop macOS or iOS apps. When used with [Flutter](https://flutter.dev), Dart can be used to develop applications on any platform that supports it; currently, those platforms include macOS, Windows, iOS, Android, web, and Linux.
 
