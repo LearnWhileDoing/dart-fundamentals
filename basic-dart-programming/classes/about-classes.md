@@ -2,7 +2,7 @@
 
 Congrats! You just created an _instance_, or an _object_, of the Car class!
 
-Let's look at the variable declaration. 
+Let's look at the variable declaration.
 
 ```java
 Car myCar = new Car();

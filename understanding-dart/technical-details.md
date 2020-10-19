@@ -10,7 +10,7 @@ Wikipedia describes dart as "an object-oriented, class-based, garbage-collected 
 
 Object-oriented programming, often shortened to OOP, is a term that is used to describe languages that support the concept of "objects" in programming. **Objects can represent real things or objects, as well as abstract things.** For example, an object can represent a car, an animal, an error, a color, clothing items, etc. Objects contain data, known as properties, and can perform methods.
 
-There are 4 pillars, or rules, of OOP: 
+There are 4 pillars, or rules, of OOP:
 
 1. Inheritance, the sharing of information
 2. Abstraction, the hiding of information

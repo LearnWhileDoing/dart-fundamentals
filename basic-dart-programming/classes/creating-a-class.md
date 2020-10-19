@@ -10,7 +10,7 @@ Whenever you create a new class, you will begin with the following line. Of cour
 class Car {
 ```
 
-This line is called the _class header_, and it is used to tell Dart what your class is called, as well as which class you plan on [inheriting](../../untitled.md)[ and extending](../../untitled.md) and/or which interface you plan on [implementing](../../untitled.md).
+This line is called the _class header_, and it is used to tell Dart what your class is called, as well as which class you plan on [inheriting](https://github.com/LearnWhileDoing/dart-programming/tree/c65e47e601dc434dd4c3d7b902104392a1c98937/untitled.md)[ and extending](https://github.com/LearnWhileDoing/dart-programming/tree/c65e47e601dc434dd4c3d7b902104392a1c98937/untitled.md) and/or which interface you plan on [implementing](https://github.com/LearnWhileDoing/dart-programming/tree/c65e47e601dc434dd4c3d7b902104392a1c98937/untitled.md).
 
 {% hint style="info" %}
 Typically, classes are titled in **PascalCase** as opposed to **lowercase**.

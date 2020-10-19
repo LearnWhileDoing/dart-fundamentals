@@ -8,7 +8,7 @@ Many times in your code you want to repeat a specific set of actions until somet
 
 ## For Loops
 
-For loops are used when you know how many times you want to perform this set of actions. 
+For loops are used when you know how many times you want to perform this set of actions.
 
 Say that we built a robot, and we want our robot to move in the shape of a square. To move in a square, it would have to go forwards and turn 4 times. Using a for loop, we can perform the set of actions we want to repeat without having to type them over and over again.
 
@@ -136,7 +136,7 @@ for (int i = 0; i < 4; i++) {
 {% endtab %}
 
 {% tab title="Solution \(while loops\)" %}
-```
+```text
 int i = 0;
 while (i < 4) {
     moveForwards();

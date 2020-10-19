@@ -8,7 +8,7 @@ A function, or method, is a set of commands that run when we _call_ it. Like eve
 
 ## Why use functions?
 
-Functions are run whenever they are called. That means that they can be called as many times as needed. Functions are often used in order to re-use code, and to separate your code into different sub-tasks to make it easier to read and understand. 
+Functions are run whenever they are called. That means that they can be called as many times as needed. Functions are often used in order to re-use code, and to separate your code into different sub-tasks to make it easier to read and understand.
 
 If you have your program divided up into functions that each perform a specific task, it will be more legible than a program that has all of its code under a single function.
 

@@ -60,7 +60,7 @@ You might notice that we never declare the `print` method, so how are we able to
 
 In this program, you will notice the usage of `void` and `String`. These are Dart _data types_, and they tell Dart what type of data a specific value will be. In this case, stating `void` before a method tells Dart not to expect a value to be returned from this method \(this is a _return type_\), and stating `String` will tell Dart that this method should return a `String`.
 
-Learn more about data types in the [variables lesson]().
+Learn more about data types in the [variables lesson](program-structure.md).
 
 ### `var` keyword
 

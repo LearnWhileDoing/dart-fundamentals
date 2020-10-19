@@ -51,7 +51,7 @@ Congratulations, you now know how to perform control flow within your programmin
 
 ## Multiple Branches
 
-What if there are different conditions that we want to compare? When there are more than one outcome of a section of control flow in your code, it is considered to have _multiple branches_ because there are multiple ways the control flow could end \(kind of like a choose-your-own-adventure\). 
+What if there are different conditions that we want to compare? When there are more than one outcome of a section of control flow in your code, it is considered to have _multiple branches_ because there are multiple ways the control flow could end \(kind of like a choose-your-own-adventure\).
 
 ### If/Else-If/Else
 
@@ -75,7 +75,7 @@ if (colorNum == 3) {
 }
 ```
 
-Depending on which number `colorNum` is set to, the light will be changed to that color.  The code above looks very confusing, however, and Dart thankfully provides us with a much better way to do this.
+Depending on which number `colorNum` is set to, the light will be changed to that color. The code above looks very confusing, however, and Dart thankfully provides us with a much better way to do this.
 
 ### Switch Statement
 
