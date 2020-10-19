@@ -52,7 +52,7 @@ Comparison operators return a boolean. For example, when we compare if a number 
 bool isGreaterThan = 98 > 100; //true
 ```
 
-![haha](../../.gitbook/assets/image.png)
+![haha](https://github.com/LearnWhileDoing/dart-programming/tree/c65e47e601dc434dd4c3d7b902104392a1c98937/.gitbook/assets/image.png)
 
 Dart also provides us with 3 special _logical operators_ that are used to compare boolean values to one another. In the following example, we take a look at the three logical operators.
 

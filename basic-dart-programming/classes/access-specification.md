@@ -4,7 +4,7 @@ description: Peek-a-boo
 
 # Access specification
 
-When creating the `Car` class, we made 4 instance variables. Each of these instance variables are _public_,  meaning it can be used anywhere the class is used.
+When creating the `Car` class, we made 4 instance variables. Each of these instance variables are _public_, meaning it can be used anywhere the class is used.
 
 ```java
 String make;
@@ -13,7 +13,7 @@ String color;
 int year;
 ```
 
- We can also make them _private_ by adding an underscore \(`_`\) before the variable name. If it is _private_, then it can only be used **within** the class itself.
+We can also make them _private_ by adding an underscore \(`_`\) before the variable name. If it is _private_, then it can only be used **within** the class itself.
 
 ```java
 String _make;

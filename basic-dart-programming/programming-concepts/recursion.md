@@ -8,7 +8,7 @@ Recursion is defined as "the repeated application of a recursive procedure or de
 
 Recursion is when the **same process occurs repeatedly by itself**. An example of this would be toppling dominoes.
 
-![](../../.gitbook/assets/200.gif)
+![](https://github.com/LearnWhileDoing/dart-programming/tree/c65e47e601dc434dd4c3d7b902104392a1c98937/.gitbook/assets/200.gif)
 
 When one domino is knocked over, it knocks over the one in front of it. When that domino is knocked over, it knocks over the one in front of it. Knocking down a domino is the repeated process, and that process repeats itself by knocking down the domino in front of it.
 
@@ -16,7 +16,7 @@ When one domino is knocked over, it knocks over the one in front of it. When tha
 
 A more abstract application of recursion in real life is a family tree.
 
-![](../../.gitbook/assets/family-tree-for-kids.png)
+![](https://github.com/LearnWhileDoing/dart-programming/tree/c65e47e601dc434dd4c3d7b902104392a1c98937/.gitbook/assets/family-tree-for-kids.png)
 
 Starting at yourself, you have \(presumably\) two biological parents. Both of your parents also have two biological parents, who also have two biological parents, and so on. This is an example of recursion: the "process" is a person having two biological parents, and that process repeats itself because those parents also have two parents.
 
@@ -24,7 +24,7 @@ Starting at yourself, you have \(presumably\) two biological parents. Both of yo
 
 ### Factorial \(mathematics\)
 
-In mathematics, the factorial \(!\) of a positive integer is the product of all the positive integers less than the original number. For example, 
+In mathematics, the factorial \(!\) of a positive integer is the product of all the positive integers less than the original number. For example,
 
 $$
 5! = 5 * 4 * 3 * 2 * 1 = 120
@@ -64,7 +64,7 @@ while(!canSeeWall()) {
 stop();
 ```
 
-However, you could also write it as a recursive function. 
+However, you could also write it as a recursive function.
 
 ```java
 // void stop()
@@ -79,5 +79,5 @@ void moveForwards() {
 }
 ```
 
-Although in this rather simplistic example it is used as an alternative to while loops, recursion can be very useful when there are multiple conditions you need to confirm before you rerun the  code and for more complex use cases.
+Although in this rather simplistic example it is used as an alternative to while loops, recursion can be very useful when there are multiple conditions you need to confirm before you rerun the code and for more complex use cases.
 

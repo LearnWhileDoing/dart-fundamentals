@@ -38,7 +38,7 @@ double mix() {
 }
 ```
 
-Well, not quite. This code will give us an error. Why? The ingredient variables are _out of scope_. This means that the ingredient variables are _scoped_ to the `prepareIngredients()` method, and are hidden and unavailable to the `mix()` method. How can we fix this? 
+Well, not quite. This code will give us an error. Why? The ingredient variables are _out of scope_. This means that the ingredient variables are _scoped_ to the `prepareIngredients()` method, and are hidden and unavailable to the `mix()` method. How can we fix this?
 
 We can instead use _global_ variables. Global variables are available globally, or available everywhere in your project. Let's rewrite the cake recipe example, this time using global variables.
 

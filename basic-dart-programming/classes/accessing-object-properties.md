@@ -26,7 +26,7 @@ void main() {
 }
 ```
 
-Let's say that when we made the `Car`, we didn't know what it's color is.  However, we do have access to the `myCar` object, with all of its instance variables. We can _refer_ to \(access\) these properties with a dot, followed by the name of the instance variable like so:
+Let's say that when we made the `Car`, we didn't know what it's color is. However, we do have access to the `myCar` object, with all of its instance variables. We can _refer_ to \(access\) these properties with a dot, followed by the name of the instance variable like so:
 
 ```dart
 String color = myCar.color;

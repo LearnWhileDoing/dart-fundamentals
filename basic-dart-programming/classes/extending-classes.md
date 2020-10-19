@@ -4,7 +4,7 @@ description: The apple doesn't fall far from the tree!
 
 # Extending classes
 
-Suppose we are early mathematicians, and we know shapes exist. We can represent this with a class,  `Shape`. It has a name and a color. Right now, we don't know any shapes nor their own properties, but we know they exist.
+Suppose we are early mathematicians, and we know shapes exist. We can represent this with a class, `Shape`. It has a name and a color. Right now, we don't know any shapes nor their own properties, but we know they exist.
 
 ```java
 class Shape {
@@ -23,7 +23,7 @@ We do this by using the keyword `extends`.
 class Rectangle extends Shape {
     int width;
     int height;
-    
+
     Rectangle({ this.width, this.height, String color }) :
         super(name: "rectangle", color: color);
 }
@@ -33,7 +33,7 @@ This constructor takes three parameters. The first two are assigned to the insta
 
 After we made our parameterized constructor, you'll notice that there is a colon \(`:`\) followed by the _super_ keyword. What does that do?
 
-### `super`
+## `super`
 
 When you inherit a class, you are _extending_ it. That's why we use the keyword `extends`. However, we mustn't forget that the class we are creating, called the _sub_-class, has a parent class, called the _super_-class. The super-class has a constructor that must be called within the constructor of the sub-class. To do so, we use the `super` constructor. This calls the constructor of the parent class with the provided parameters.
 
