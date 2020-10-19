@@ -1,10 +1,10 @@
 ---
-description: A brief summary of this course
+description: A brief summary of this course.
 ---
 
 # Introduction
 
-Hey there, and welcome to Learn While Doing's **Programming in Dart** course. This basic module course will teach you about the Dart programming language and how to program in it.
+Hey there, and welcome to Learn While Doing's **Programming in Dart** course. This basic module course will teach you the fundamentals of the Dart programming language and how to code in it.
 
 ## What's covered in this course?
 
