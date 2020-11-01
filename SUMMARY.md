@@ -37,9 +37,9 @@
 
 ---
 
-* [Certificate of Completion!](https://www.dropbox.com/s/n5egjritwv215lr/Programming%20in%20Dart.pdf?dl=0)
+* [Certificate of Completion!](https://www.dropbox.com/s/zz7fkjsrhd89grc/Dart%20Fundamentals.pdf?dl=0)
 
-## Advances
+## Advanced
 
-* [Untitled](advances/untitled.md)
+* [Untitled](advanced/untitled.md)
 
