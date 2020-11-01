@@ -32,8 +32,14 @@
   * [Methods](basic-dart-programming/classes/methods.md)
   * [Extending classes](basic-dart-programming/classes/extending-classes.md)
   * [Recap](basic-dart-programming/classes/recap.md)
+* [Grouping Data](basic-dart-programming/grouping-data/README.md)
+  * [Sets](basic-dart-programming/grouping-data/sets.md)
 
 ---
 
 * [Certificate of Completion!](https://www.dropbox.com/s/n5egjritwv215lr/Programming%20in%20Dart.pdf?dl=0)
+
+## Advances
+
+* [Untitled](advances/untitled.md)
 
