@@ -52,16 +52,14 @@ class Car {
 
 But wait, those instance variables still were never assigned a value! How do we fix that?
 
-Constructors can accept parameters like functions. They can be named or positional. For this example, we will make them named.
-
 ```java
 Car({ this.make, this.model, this.color, this.year });
 ```
 
-This is called a _parameterized constructor_ because it now has different _parameters_. We can use these parameters to assign values to the instance variables.
+This is called a _parameterized constructor_ because it now has different _parameters_. We can use these parameters to assign values to the instance variables. The `this` keyword simply tells Dart to assign the instance variable to _this_ instance.
 
 {% hint style="info" %}
-The `this` keyword simply tells Dart to assign the instance variable to _this_ instance.
+Constructors can accept parameters like functions. They can be _named or positional_. This example uses named parameters.
 {% endhint %}
 
 Now, we can update the `main()` method to create a `new Car`.
