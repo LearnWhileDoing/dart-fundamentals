@@ -29,7 +29,9 @@ class Rectangle extends Shape {
 }
 ```
 
-This constructor takes three parameters. The first two are assigned to the instance because of the `this` keyword, and the last one is a regular parameter.
+This constructor takes three parameters. The first two are assigned to the instance with use of the `this` keyword, and the last one is a regular parameter.
+
+We use the `this` keyword to assign some parameters to the instance and not others for a couple of reasons. In the `Rectangle` class, we have two instance variables, `width` and `height`. These need a value when the class is _instantiated_. With the `this` keyword, they are given a value automatically. The `color` parameter is required in the parent class' constructor, and as such needn't be assigned to the instance and doesn't require the `this` keyword.
 
 After we made our parameterized constructor, you'll notice that there is a colon \(`:`\) followed by the _super_ keyword. What does that do?
 

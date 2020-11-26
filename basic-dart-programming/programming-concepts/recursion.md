@@ -8,7 +8,7 @@ Recursion is defined as "the repeated application of a recursive procedure or de
 
 Recursion is when the **same process occurs repeatedly by itself**. An example of this would be toppling dominoes.
 
-![](https://github.com/LearnWhileDoing/dart-programming/tree/c65e47e601dc434dd4c3d7b902104392a1c98937/.gitbook/assets/200.gif)
+![](../../.gitbook/assets/giphy.gif)
 
 When one domino is knocked over, it knocks over the one in front of it. When that domino is knocked over, it knocks over the one in front of it. Knocking down a domino is the repeated process, and that process repeats itself by knocking down the domino in front of it.
 
@@ -16,7 +16,7 @@ When one domino is knocked over, it knocks over the one in front of it. When tha
 
 A more abstract application of recursion in real life is a family tree.
 
-![](https://github.com/LearnWhileDoing/dart-programming/tree/c65e47e601dc434dd4c3d7b902104392a1c98937/.gitbook/assets/family-tree-for-kids.png)
+![](../../.gitbook/assets/family-tree-for-kids.png)
 
 Starting at yourself, you have \(presumably\) two biological parents. Both of your parents also have two biological parents, who also have two biological parents, and so on. This is an example of recursion: the "process" is a person having two biological parents, and that process repeats itself because those parents also have two parents.
 

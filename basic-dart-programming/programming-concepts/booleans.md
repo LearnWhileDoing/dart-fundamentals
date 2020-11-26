@@ -49,10 +49,10 @@ In Dart, we can compare values and variables to other values and variables. Ther
 Comparison operators return a boolean. For example, when we compare if a number is greater than another number, we will get a boolean value that represents if that _expression_ is true or false.
 
 ```dart
-bool isGreaterThan = 98 > 100; //true
+bool isGreaterThan = 98 < 100; //true
 ```
 
-![haha](https://github.com/LearnWhileDoing/dart-programming/tree/c65e47e601dc434dd4c3d7b902104392a1c98937/.gitbook/assets/image.png)
+![haha](../../.gitbook/assets/what-if-i-told-you-that-boolean-boolean-creates-another-boolean.jpg)
 
 Dart also provides us with 3 special _logical operators_ that are used to compare boolean values to one another. In the following example, we take a look at the three logical operators.
 

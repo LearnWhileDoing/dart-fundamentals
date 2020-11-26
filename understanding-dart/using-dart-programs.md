@@ -12,19 +12,15 @@ One of the most basic code statements you can write in Dart is as follows:
 int i = 0;
 ```
 
-This declares the variable `i` with the data type `int` and a value of `0`. Integers are primitive data types, but what happens when we use non-primitive data types like `String`?
+This declares the variable `i` with the data type `int` and a value of `0`. Integers are primitive data types, but what happens when we use non-primitive data types?
 
-```java
-String greeting = "hello";
-```
-
-Not much has changed, except we now use the `String` data type and pass a `String` as the value. Let's go further with this. Say we have an example class, `LightBulb`. How would we use `LightBulb` as a data type and pass it as a value?
+Let's say that we make a class, `LightBulb`. \(Don't worry about that terminology for now, just focus on the theory!\) How would we use `LightBulb` as a data type and pass it as a value?
 
 ```java
 LightBulb light = new LightBulb();
 ```
 
-You can see that we are essentially creating a "new" LightBulb to be stored by the variable `light`.
+You can see that we are essentially creating a "new" LightBulb to be stored by the variable `light`. Not much syntax changed on the left hand side, but on the right hand side things are different. Here, we are making a `new` light bulb, instead of just typing something like `0` for an integer or `"hi"` for a String.
 
 ## Client of the class
 
