@@ -1,4 +1,4 @@
-Hey there, and welcome to Learn While Doing's **Dart Fundamentals** course. This basic module course will teach you the fundamentals of the Dart programming language and how to code in it.
+Hey there, and welcome to LearnWhileDoing's **Dart Fundamentals** course. This basic module course will teach you the fundamentals of the Dart programming language and how to code in it.
 
 ## What's covered in this course?
 
