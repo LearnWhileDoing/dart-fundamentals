@@ -1,0 +1,23 @@
+introduction:
+  title: "Introduction"
+  list:
+    course-materials: 
+      title: "course-materials"
+    contributors:
+      title: "Contributors"
+    get-help-with-the-course:
+      title: "Get Help with the Course"
+
+understanding-dart:
+  title: "Understanding Dart"
+  list:
+    what-is-dart:
+      title: "What is Dart?"
+    technical-details:
+      title: "Technical Details"
+    program-structure:
+      title: "Program Structure"
+    variables-and-built-in-types:
+      title: "Variables and Built-in Types"
+    using-dart-programs:
+      title: "Using Dart Programs"
