@@ -29,8 +29,8 @@ Notice how for each _iteration_, or repetition of the actions, we have to re-typ
 
 ```java
 for(int i = 0; i < 4; i++) {
-    robot.moveForwards();
-    robot.turn();
+    moveForwards();
+    turn();
 }
 ```
 
@@ -65,7 +65,7 @@ Let's take an example scenario where you are coding a video game. You know the u
 ```java
 do {
     playGame();
-} while(playAgain());
+} while(playAgain);
 ```
 
 The code within the `do` block will always run at least once, and will run as long as the `while` condition is true.

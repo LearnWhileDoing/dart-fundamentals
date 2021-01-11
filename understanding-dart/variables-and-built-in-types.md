@@ -27,7 +27,7 @@ As the name suggests, different _data types_ specify what type of data can be as
 
 ### Built-in Data Types
 
-8 different primitive data types are available in Java. They consist of:
+8 different primitive data types are available in Dart. They consist of:
 
 1. **bool** - short for boolean; `true` or `false`
 2. **int** - an integer value
@@ -53,6 +53,16 @@ dynamic userData = 123;
 
 As you can see, when using the `dynamic` keyword, the value can be of any type.
 
+### Declaring a variable
+
+Many _statically-typed_ languages like Java do not let you change the data type of a variable in the middle of a program; Dart is _dynamically typed_, which means that the type of a variable can be changed if allowed. 
+
+In Dart, there are 3 ways to declare a variable. You can either explicitly declare the type \(i.e. `int amount = 3;`\), have Dart infer the type with the `var` keyword \(i.e. `var amount = 3;`\), or create a dynamic variable \(i.e. `dynamic amount = 3;`\). These examples all do the same thing. However, there are some guidelines as to when you should use which:
+
+* use explicit typing for [instance variables](../basic-dart-programming/classes/creating-a-class.md#instance-variables)
+* create a dynamic variable when the type of data is unknown
+* have Dart infer the type in all other cases
+
 ## Quiz
 
 {% tabs %}
@@ -62,7 +72,14 @@ How would you declare a variable `age`? _Hint: use the `int` data type_
 
 {% tab title="Answer" %}
 ```dart
-int age = 15;
+// 1
+int age = 15; // age is now int
+
+// 2
+var age = 15; // age is still int
+
+// 3
+dynamic age = 15; // age is now dynamic
 ```
 {% endtab %}
 {% endtabs %}

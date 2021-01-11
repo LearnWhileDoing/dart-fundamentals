@@ -6,9 +6,9 @@ description: if this then that
 
 {% hint style="warning" %}
 This section begins to get into more advanced programming topics. We encourage you to try out this code interactively, and to modify and test your own code as you read and learn.
+{% endhint %}
 
 You can view the code used in this lesson at [https://dartpad.dev/91106c1fd8829ce1e3c348ff83bcd9e6](https://dartpad.dev/91106c1fd8829ce1e3c348ff83bcd9e6)
-{% endhint %}
 
 ## If/Else
 
