@@ -1,23 +1,30 @@
-introduction:
-  title: "Introduction"
-  list:
-    course-materials: 
-      title: "course-materials"
-    contributors:
-      title: "Contributors"
-    get-help-with-the-course:
-      title: "Get Help with the Course"
+Introduction:
+  - Course Materials
+  - Contributors
+  - Get Help with the Course
 
-understanding-dart:
-  title: "Understanding Dart"
-  list:
-    what-is-dart:
-      title: "What is Dart?"
-    technical-details:
-      title: "Technical Details"
-    program-structure:
-      title: "Program Structure"
-    variables-and-built-in-types:
-      title: "Variables and Built-in Types"
-    using-dart-programs:
-      title: "Using Dart Programs"
+Understanding Dart:
+  - What is Dart?
+  - Technical Details
+  - Program Structure
+  - Variables and Built-in Types
+  - Using Dart Programs
+      
+Basic Dart Programming:
+  - Programming Concepts:
+    - Arithmetic
+    - Booleans
+    - Control Flow
+    - Loops
+    - Recursion
+  - Functions
+  - Scope
+  - Classes
+    - Setting up DartPad
+    - About classes
+    - Creating a class
+    - Access specification
+    - Accessing object properties
+    - Methods
+    - Extending classes
+    - Recap
